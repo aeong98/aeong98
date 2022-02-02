@@ -1,4 +1,5 @@
 ### 😺김서연의 깃헙😺
+![seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeong98&show_icons=true&theme=radical)
 
 #### 1. 학교 : 서강대학교
 #### 2. 전공 : 경영학과 / 융합소프트웨어
