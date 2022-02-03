@@ -71,4 +71,30 @@
   </div>
 </details>
 
+
+`2021` **멋쟁이 사자처럼 서강대**
+: 인테리어취향공유 웹사이트 ZIP 
+
+
+<details>
+  <summary>프로젝트 Github 링크 및 상세 내용</summary>
+  <div markdown="1">
+    GitHub - ZipProject-Likelion/ZipProject: 🧸인테리어 취향 공유 서비스🧸](https://github.com/ZipProject-Likelion/ZipProject)
+    
+    Django REST Framework / React JS / AWS RDB, S3, EC2 / Docker, Nginx 로 구현한 인테리어 취향 공유 서비스입니다. 
+
+    구현 기능 :
+
+    - 회원가입, 로그인, 로그아웃 (JWT)
+    - 상품 리스트 CRUD
+    - 큐레이션 리스트 CRUD 
+    - 권한 분리
+    - 상품, 큐레이션 검색 기능 
+    - 태그 기반 상품 및 큐레이션 추천 기능
+    
+    `Python` `Django` `MySQL` `Javascript` `ReactJs` `Docker` `REST API` 
+
+
+  </div>
+</details>
  
