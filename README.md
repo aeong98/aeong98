@@ -6,7 +6,8 @@
 '도전'과 '성장'을 추구하는 사람으로, 새로운 기술을 습득하고 실제 결과물을 도출해내는   과정에서 가장 큰 보람을 느낍니다. 
 
 `Frontend-Devloper` `Javascript` `Typescript` `Jquery` `ReactJs` `NextJS` `Redux Toolkit` `Recoil`
-`Django` `Flask` `Python` `Docker` PostgreSQL` `MySQL` `GitFlow` `AWS` `Àzure`
+
+`Django` `Flask` `Python` `Docker` `PostgreSQL` `MySQL` `GitFlow` `AWS` `Azure`
 
 ---
 ## **👩‍💻Career**
